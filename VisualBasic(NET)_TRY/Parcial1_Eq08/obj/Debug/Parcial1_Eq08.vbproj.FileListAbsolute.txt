@@ -1,0 +1,161 @@
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\Parcial1_Eq08.exe.config
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\Parcial1_Eq08.exe
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\Parcial1_Eq08.pdb
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\Parcial1_Eq08.xml
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\MySql.Data.dll
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\Google.Protobuf.dll
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\Zstandard.Net.dll
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\System.Buffers.dll
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\MySql.Data.xml
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.vbprojAssemblyReference.cache
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Form1.resources
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Form2.resources
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Resources.resources
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.vbproj.GenerateResource.cache
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.vbproj.CoreCompileInputs.cache
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.vbproj.CopyComplete
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.exe
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.xml
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.pdb
+C:\Users\Greg Sproul\source\repos\Parcial1_Eq08\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Consulta.resources
+C:\Users\Woody\Downloads\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\Parcial1_Eq08.exe.config
+C:\Users\Woody\Downloads\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\Parcial1_Eq08.exe
+C:\Users\Woody\Downloads\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\Parcial1_Eq08.pdb
+C:\Users\Woody\Downloads\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\Parcial1_Eq08.xml
+C:\Users\Woody\Downloads\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\Google.Protobuf.dll
+C:\Users\Woody\Downloads\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\Zstandard.Net.dll
+C:\Users\Woody\Downloads\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Woody\Downloads\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Woody\Downloads\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Woody\Downloads\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Woody\Downloads\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\System.Buffers.dll
+C:\Users\Woody\Downloads\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Woody\Downloads\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Woody\Downloads\Parcial1_Eq08\Parcial1_Eq08\bin\Debug\MySql.Data.xml
+C:\Users\Woody\Downloads\Parcial1_Eq08\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.vbprojAssemblyReference.cache
+C:\Users\Woody\Downloads\Parcial1_Eq08\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Consulta.resources
+C:\Users\Woody\Downloads\Parcial1_Eq08\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Form1.resources
+C:\Users\Woody\Downloads\Parcial1_Eq08\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Form2.resources
+C:\Users\Woody\Downloads\Parcial1_Eq08\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Resources.resources
+C:\Users\Woody\Downloads\Parcial1_Eq08\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.vbproj.GenerateResource.cache
+C:\Users\Woody\Downloads\Parcial1_Eq08\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.vbproj.CoreCompileInputs.cache
+C:\Users\Woody\Downloads\Parcial1_Eq08\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.vbproj.CopyComplete
+C:\Users\Woody\Downloads\Parcial1_Eq08\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.exe
+C:\Users\Woody\Downloads\Parcial1_Eq08\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.xml
+C:\Users\Woody\Downloads\Parcial1_Eq08\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.pdb
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Parcial1_Eq08.exe.config
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Parcial1_Eq08.exe
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Parcial1_Eq08.pdb
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Parcial1_Eq08.xml
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\MySql.Data.dll
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Google.Protobuf.dll
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Zstandard.Net.dll
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Ubiety.Dns.Core.dll
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\System.Buffers.dll
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\K4os.Compression.LZ4.dll
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\K4os.Hash.xxHash.dll
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\MySql.Data.xml
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.vbprojAssemblyReference.cache
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Consulta.resources
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Form1.resources
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Form2.resources
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Resources.resources
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.vbproj.GenerateResource.cache
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.vbproj.CoreCompileInputs.cache
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.vbproj.CopyComplete
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.exe
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.xml
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.pdb
+D:\Documents\HPA\Proy1_Eq08_AnimacionYGraficos\Proy1_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Edicion.resources
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Parcial1_Eq08.exe.config
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Parcial1_Eq08.exe
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Parcial1_Eq08.pdb
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Parcial1_Eq08.xml
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\MySql.Data.dll
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Google.Protobuf.dll
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Zstandard.Net.dll
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Ubiety.Dns.Core.dll
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\System.Buffers.dll
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\K4os.Compression.LZ4.dll
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\K4os.Hash.xxHash.dll
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\MySql.Data.xml
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.vbprojAssemblyReference.cache
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Consulta.resources
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Edicion.resources
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Form1.resources
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Form2.resources
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Resources.resources
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.vbproj.GenerateResource.cache
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.vbproj.CoreCompileInputs.cache
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.vbproj.CopyComplete
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.exe
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.xml
+D:\Documents\HPA\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.pdb
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Parcial1_Eq08.exe.config
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Parcial1_Eq08.exe
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Parcial1_Eq08.pdb
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Parcial1_Eq08.xml
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Google.Protobuf.dll
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Zstandard.Net.dll
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\System.Memory.dll
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\System.Buffers.dll
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\MySql.Data.xml
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.vbprojAssemblyReference.cache
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Consulta.resources
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Edicion.resources
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Form1.resources
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Form2.resources
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Resources.resources
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.vbproj.GenerateResource.cache
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.vbproj.CopyComplete
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.exe
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.xml
+C:\Users\admin\Downloads\Proyecto Final\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimacionYGraficos\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.pdb
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Parcial1_Eq08.exe.config
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Parcial1_Eq08.exe
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Parcial1_Eq08.pdb
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Parcial1_Eq08.xml
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Google.Protobuf.dll
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Zstandard.Net.dll
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\BouncyCastle.Crypto.dll
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\Ubiety.Dns.Core.dll
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\System.Memory.dll
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\System.Buffers.dll
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\K4os.Compression.LZ4.dll
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\K4os.Hash.xxHash.dll
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\System.Numerics.Vectors.dll
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\bin\Debug\MySql.Data.xml
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.vbproj.AssemblyReference.cache
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Consulta.resources
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Edicion.resources
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Form1.resources
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Form2.resources
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.Resources.resources
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.vbproj.GenerateResource.cache
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.vbproj.CoreCompileInputs.cache
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1.96C1ECE4.Up2Date
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.exe
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.xml
+D:\Curriculums\Greg Torres\Desarrollo de Software\HPA3_TorresGreg\Torres_Greg\4. Actividades o Asignaciones\3. Proyectos\PF_Eq08\PF_Eq08\PF_Eq08_Netflix\ProyF_Eq08_AnimaciónYGráficos\Parcial1_Eq08\obj\Debug\Parcial1_Eq08.pdb
